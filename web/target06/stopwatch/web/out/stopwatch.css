@@ -19,7 +19,7 @@ button {
   background-color: #fffacd;
   border: solid 1px;
   padding: 10px 10px 10px 10px;
-  width: 150px;
+  display: inline-block;
   text-align: center;
 }
 
